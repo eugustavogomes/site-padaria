@@ -13,7 +13,7 @@ const HeroSection = () => (
     <div className="absolute inset-0 bg-black/70"></div>
     <div className="relative z-10">
       <img
-        src="images/logo-padaria.png"
+        src="/images/logo-padaria.png"
         alt="Padaria Boa Vista Logo"
         className="mx-auto h-40 mb-4"
       />
