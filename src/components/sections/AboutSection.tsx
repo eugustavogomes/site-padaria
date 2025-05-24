@@ -2,7 +2,7 @@
 
 const AboutSection = () => (
        <section id="sobre" className="py-12 max-w-4xl mx-auto px-4">
-          <h2 className="text-3xl font-semibold text-beige-200 mb-6 text-center font-playfair">
+          <h2 className="text-4xl font-semibold text-beige-200 mb-6 text-center font-playfair">
           🥖 Sobre Nós
         </h2>
         
