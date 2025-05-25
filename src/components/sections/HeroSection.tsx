@@ -15,7 +15,7 @@ const HeroSection = () => (
       <img
         src="/images/logo-padaria.png"
         alt="Padaria Boa Vista Logo"
-        className="mx-auto h-40 mb-4"
+        className="mx-auto h-40 mb-4" 
       />
       <h1 className="text-4xl md:text-5xl font-bold text-beige-200 font-playfair">
         Padaria Boa Vista
